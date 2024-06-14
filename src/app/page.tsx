@@ -16,7 +16,7 @@ const Page = () => {
           src={pic}
           className="w-full h-full object-cover"
         />
-        <div className="absolute top-0 left-0 bg-black/80 w-full h-full flex items-center justify-center">
+        <div className="absolute top-0 left-0 bg-black/80 w-full h-full flex items-center ">
           <div className="w-11/12 md:w-4/5 lg:w-3/5 mx-auto flex flex-col gap-4 md:gap-6 lg:gap-8 items-center text-center p-4">
             <h5 className="text-white text-xs md:text-sm lg:text-base mb-2">
               DONATE TO CONTRIBUTE
