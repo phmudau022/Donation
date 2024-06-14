@@ -8,10 +8,9 @@ export const NavLink = (props: NavLInkProps) => {
   const [active, setActive] = useState<boolean>(false)
 
   const pathName = usePathname();
-  console.log(pathName)
+  
   const pathLocation =  pathName.split('/')[1];
 
-  console.log(pathLocation, url)
 
   useEffect(() => {
 
