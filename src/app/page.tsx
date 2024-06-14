@@ -22,7 +22,7 @@ const Page = () => {
               DONATE TO CONTRIBUTE
             </h5>
             <h1 className="text-2xl md:text-3xl lg:text-4xl text-white font-bold mb-4">
-              LET&apos;S BUILD A BETTER WORLD TOGETHER
+              LET&apos;S BUILD A BETTER WORLD TOGETHER 
             </h1>
             <p className="text-white text-sm md:text-base lg:text-lg">
               Together, we can make a lasting impact on the world around us. By
